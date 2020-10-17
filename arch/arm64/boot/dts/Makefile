@@ -2,9 +2,6 @@
 dtbo-y += exynos9830/exynos9830-universal9830_r10.dtbo
 dtbo-y += exynos9830/exynos9830-universal9830_r04.dtbo
 dtbo-y += exynos9830/exynos9830-universal9830_r06.dtbo
-dtb-y += exynos9830/exynos7-espresso.dtb
-dtb-y += exynos9830/exynos5433-tm2.dtb
-dtb-y += exynos9830/exynos5433-tm2e.dtb
 dtbo-y += exynos9830/exynos9830-smdk9830_r02.dtbo
 dtb-y += exynos9830/exynos9830.dtb
 dtbo-y += exynos9830/exynos9830-universal9830_r05.dtbo
